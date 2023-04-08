@@ -1,2 +1,4 @@
 # Golang Project Collection
-# TOC
+## TOC
+- Go documentation
+- Go by example
