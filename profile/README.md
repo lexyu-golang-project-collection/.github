@@ -1,7 +1,8 @@
 # Golang Project Collection
 ## TOC
-- Go documentation
-  - ![](https://geps.dev/progress/1)
+|Topics|Progress|
+|:-----|:-------|
+|Go documentation|![](https://geps.dev/progress/1)|
 - Go by example
 - Framework
   - Gin
