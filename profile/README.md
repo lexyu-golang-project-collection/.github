@@ -1,4 +1,4 @@
-# Golang Project Collection
+# Table of Content
 - Go documentation
   |Topics|Progress|
   |:-----|:-------|
