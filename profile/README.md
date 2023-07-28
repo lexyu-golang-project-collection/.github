@@ -2,7 +2,7 @@
 - Go documentation
   |Topics|Progress|
   |:-----|:-------|
-  |Getting Started|![](https://geps.dev/progress/40)|
+  |Getting Started|![](https://geps.dev/progress/100)|
   |Developing modules||
   |Accessing databases||
 - Go Project Layout
