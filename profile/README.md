@@ -7,7 +7,6 @@
   |Accessing databases|backlog|
 - Go Project Layout
 - Go by example
-- Web Dev
 - Framework
   - Gin
   - GORM
