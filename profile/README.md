@@ -1,7 +1,3 @@
 # Table of Content
-- Go documentation
-  |Topics|Progress|
-  |:-----|:-------|
-  |Getting Started|![](https://geps.dev/progress/100)|
-  |Developing modules|backlog|
-  |Accessing databases|backlog|
+
+<center><img src="https://github.com/ashleymcnamara/gophers/blob/master/GO_BUILD.png?raw=true" alt="Based on original artwork from the amazing [Renee French](http://reneefrench.blogspot.com/)" width="500" height="500px" /></center>
